@@ -2,7 +2,6 @@
 
 - 🔭 Estudante da Universidade Federal de Pernambuco
 - 🌱 Estudando python...
-- 😉 pronomous 
 
 <div>
   <a href="https://github.com/alisssantos">
