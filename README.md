@@ -1,7 +1,7 @@
 ## Olá! Eu sou Alisson
 
 - 🔭 Estudante da Universidade Federal de Pernambuco
-- 🌱 Estudando python, JS e HTML
+
 
 <div>
   <a href="https://github.com/alisssantos">
